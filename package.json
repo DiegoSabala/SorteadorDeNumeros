@@ -1,0 +1,19 @@
+{
+  "name": "sorteador-numeros",
+  "version": "1.0.0",
+  "description": "Desafio para sorteio de numeros",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/app.js",
+    "build": "tsc",
+    "watch": "tsc -w" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DiegoSabala/SorteadorDeNumeros.git"
+  },
+  "author": "Diego Sabala Gomes",
+  "license": "ISC",
+  "keywords": ["sorteio", "números", "desafio"]
+}
